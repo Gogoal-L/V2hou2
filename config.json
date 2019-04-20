@@ -1,9 +1,9 @@
 {
-    "Mysql_Host": "数据库地址",
+    "Mysql_Host": "",
     "Mysql_Port": 3306,
-    "Mysql_User": "数据库用户名",
-    "Mysql_Password": "数据库密码",
-    "Mysql_Db": "数据库表",
+    "Mysql_User": "",
+    "Mysql_Password": "",
+    "Mysql_Db": "",
     "Mysql_TLS": "false",
     "Mysql_MaxOpenConns": 100,
     "Mysql_MaxIdleConns": 10,
