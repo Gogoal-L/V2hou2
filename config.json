@@ -1,9 +1,9 @@
 {
     "Mysql_Host": "23.98.32.10",
     "Mysql_Port": 3306,
-    "Mysql_User": "V2raySocks",
+    "Mysql_User": "V2raySocks-B",
     "Mysql_Password": "10183584",
-    "Mysql_Db": "V2raySocks",
+    "Mysql_Db": "V2raySocks-B",
     "Mysql_TLS": "false",
     "Mysql_MaxOpenConns": 100,
     "Mysql_MaxIdleConns": 10,
