@@ -9,7 +9,7 @@
   "stats": {
   },
   "inbound": {
-    "port": 1080,
+    "port": 543,
     "protocol": "vmess",
     "settings": {
       "clients": []
